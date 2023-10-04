@@ -1,0 +1,66 @@
+*
+{
+    padding: 0;
+    margin: 0;
+}
+
+header
+{
+    background: #333;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.img-logo
+{
+    width: 50px;
+    height: 50px;
+}
+
+.menu
+{
+    display: flex;
+    list-style: none;   
+}
+
+.menu a
+{
+    color: #FFF;
+    text-decoration: none;
+    padding: 5px;
+}
+
+.logo {
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.col-honolulu {
+	background-color: grey;
+	color:white;
+	font-size: 12px;
+	font-family: Verdana;
+}
+
+.btn-honolulu{
+  color: purple;
+  border-color: purple; 
+}
+
+.abs-center {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+}
+
+.form {
+  width: 450px;
+}
+
+.btn-color {
+  color: white;
+  background-color: #6ed24f;
+  border-color: #6ed24f;
+}
