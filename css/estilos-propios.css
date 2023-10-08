@@ -121,3 +121,12 @@ header
     height: 100%;
     content: "";
 }
+
+.carousel h5, .carousel p {
+    color: white;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+section h2, section p, section button {
+    margin: 10px;
+} 
